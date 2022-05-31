@@ -24,7 +24,9 @@ body {
 }
 
 .btn:hover {
-    opacity: 0.9;
+    background-color: #013dc4;
+    color: #f7f7f9;
+    border: 2px #f7f7f9 dashed;
 }
 
 .btn:focus {
