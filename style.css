@@ -51,7 +51,39 @@ h1 {
 }
 
 .screen.up {
-    margin-top: -100vh; /* move the next screen up*/
+    margin-top: -200vh; /* move the next screen up*/
+}
+
+.insects-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.insects-list li {
+    margin: 10px;
+}
+
+.choose-insect-btn {
+    background-color: transparent;
+    border: 2px solid #f7f7f9;
+    color: #f7f7f9;
+    cursor: pointer;
+    font-family: inherit;
+    width: 150px;
+    height: 150px;
+}
+
+.choose-insect-btn:hover {
+    background-color: #f7f7f9;
+    color: #013dc4;
+    border: 2px #013dc4 dashed;
+}
+
+.choose-insect-btn:active {
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 .choose-insect-btn img {
