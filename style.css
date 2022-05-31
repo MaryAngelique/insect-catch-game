@@ -14,6 +14,14 @@ body {
     text-align: center;
 }
 
+a {
+    color: #f7f7f9;
+}
+
+h1 {
+    line-height: 1.4;
+}
+
 .btn {
     font-family: inherit;
     border: 0;
@@ -40,6 +48,10 @@ body {
     justify-content: center;
     height: 100vh;
     width: 100vw;
+}
+
+.screen.up {
+    margin-top: -100vh; /* move the next screen up*/
 }
 
 .choose-insect-btn img {
