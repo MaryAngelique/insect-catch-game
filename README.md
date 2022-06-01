@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Insect Catch Game GitHub Solution](https://github.com/MaryAngelique/insect-catch-game)
 - Live Site URL: [Insect Catch Game Website](https://fun-insect-catch-game.vercel.app/)
 ## My process
 
